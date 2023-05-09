@@ -1,0 +1,16 @@
+Barabasi-Albert : N = 1000, d = 2, m = 3, posterior/
+Barabasi-Albert : N = 1000, d = 2, m = 3, shuffle (Reliance)/
+Barabasi-Albert : N = 1000, d = 2, m = 3, shuffle/
+Barabasi-Albert : N = 1000, d = 3, m = 3 (v2)/
+Barabasi-Albert : N = 1000, d = 3, m = 3/
+Reliance and Degree centralities graph : m = 3, shuffle (degree)/
+Reliance and Degree centralities graph : m = 3, shuffle (reliance)/
+Testing Reliance centrality posterior/
+Testing Reliance centrality shuffle/
+Testing degree centrality posterior/
+Testing degree centrality shuffle/
+Testing eigenvector centrality posterior/
+Testing eigenvector centrality shuffle/
+gif images test/
+test init degree centrality opinions/
+y_t.pickle
