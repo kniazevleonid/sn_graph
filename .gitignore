@@ -5,6 +5,8 @@ Barabasi-Albert : N = 1000, d = 3, m = 3 (v2)/
 Barabasi-Albert : N = 1000, d = 3, m = 3/
 Reliance and Degree centralities graph : m = 3, shuffle (degree)/
 Reliance and Degree centralities graph : m = 3, shuffle (reliance)/
+Reliance and Degree centralities 1000 graph : m = 3, shuffle (degree)/
+Reliance and Degree centralities 1000 graph : m = 3, shuffle (reliance)/
 Testing Reliance centrality posterior/
 Testing Reliance centrality shuffle/
 Testing degree centrality posterior/
